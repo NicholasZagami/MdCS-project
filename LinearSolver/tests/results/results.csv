@@ -1,0 +1,65 @@
+Metodo,Matrice,Tolleranza,Tempo,Iterazioni
+Jacobi,data/spa1.mtx,0.0001,0.01758079999126494,131
+Jacobi,data/spa1.mtx,1e-06,0.026286000153049827,198
+Jacobi,data/spa1.mtx,1e-08,0.03415660001337528,264
+Jacobi,data/spa1.mtx,1e-10,0.042638600105419755,330
+Gaub Seidel,data/spa1.mtx,0.0001,0.3326057998929173,12
+Gaub Seidel,data/spa1.mtx,1e-06,0.5453755999915302,20
+Gaub Seidel,data/spa1.mtx,1e-08,0.7360239999834448,27
+Gaub Seidel,data/spa1.mtx,1e-10,0.9438264998607337,35
+Gradiente,data/spa1.mtx,0.0001,1.587161700008437,6211
+Gradiente,data/spa1.mtx,1e-06,2.7947269999422133,10907
+Gradiente,data/spa1.mtx,1e-08,3.9377824999392033,15607
+Gradiente,data/spa1.mtx,1e-10,5.036556999897584,20305
+Gradiente coniugato,data/spa1.mtx,0.0001,0.07801700010895729,127
+Gradiente coniugato,data/spa1.mtx,1e-06,0.1032356999348849,168
+Gradiente coniugato,data/spa1.mtx,1e-08,0.12217430002056062,191
+Gradiente coniugato,data/spa1.mtx,1e-10,0.13031999999657273,214
+Jacobi,data/spa2.mtx,0.0001,0.09021860011853278,41
+Jacobi,data/spa2.mtx,1e-06,0.13039790000766516,62
+Jacobi,data/spa2.mtx,1e-08,0.1724807999562472,83
+Jacobi,data/spa2.mtx,1e-10,0.21563399978913367,103
+Gaub Seidel,data/spa2.mtx,0.0001,1.4636401999741793,6
+Gaub Seidel,data/spa2.mtx,1e-06,2.1392112001776695,9
+Gaub Seidel,data/spa2.mtx,1e-08,2.9643202999141067,13
+Gaub Seidel,data/spa2.mtx,1e-10,3.6423790000844747,16
+Gradiente,data/spa2.mtx,0.0001,13.59576699999161,3459
+Gradiente,data/spa2.mtx,1e-06,26.13097669999115,6649
+Gradiente,data/spa2.mtx,1e-08,40.20819410006516,9869
+Gradiente,data/spa2.mtx,1e-10,52.584573100088164,13101
+Gradiente coniugato,data/spa2.mtx,0.0001,1.4006171999499202,139
+Gradiente coniugato,data/spa2.mtx,1e-06,1.941215599887073,196
+Gradiente coniugato,data/spa2.mtx,1e-08,2.428830499993637,243
+Gradiente coniugato,data/spa2.mtx,1e-10,2.998755999840796,289
+Jacobi,data/vem1.mtx,0.0001,0.3356657000258565,2181
+Jacobi,data/vem1.mtx,1e-06,0.5011479000095278,3300
+Jacobi,data/vem1.mtx,1e-08,0.6781023999210447,4419
+Jacobi,data/vem1.mtx,1e-10,0.8478586999699473,5538
+Gaub Seidel,data/vem1.mtx,0.0001,9.66590219992213,1092
+Gaub Seidel,data/vem1.mtx,1e-06,14.516404800117016,1652
+Gaub Seidel,data/vem1.mtx,1e-08,19.35562999988906,2211
+Gaub Seidel,data/vem1.mtx,1e-10,24.187746800016612,2771
+Gradiente,data/vem1.mtx,0.0001,0.43376859999261796,1451
+Gradiente,data/vem1.mtx,1e-06,0.6525208000093699,2179
+Gradiente,data/vem1.mtx,1e-08,0.8804266999941319,2907
+Gradiente,data/vem1.mtx,1e-10,1.1342012998647988,3635
+Gradiente coniugato,data/vem1.mtx,0.0001,0.02956699999049306,36
+Gradiente coniugato,data/vem1.mtx,1e-06,0.0346089000813663,43
+Gradiente coniugato,data/vem1.mtx,1e-08,0.03941209986805916,51
+Gradiente coniugato,data/vem1.mtx,1e-10,0.044850800186395645,57
+Jacobi,data/vem2.mtx,0.0001,4.296122699975967,3411
+Jacobi,data/vem2.mtx,1e-06,6.390445600030944,5160
+Jacobi,data/vem2.mtx,1e-08,8.848184699891135,6909
+Jacobi,data/vem2.mtx,1e-10,10.800844700075686,8657
+Gaub Seidel,data/vem2.mtx,0.0001,24.980171599891037,1707
+Gaub Seidel,data/vem2.mtx,1e-06,37.66793420002796,2581
+Gaub Seidel,data/vem2.mtx,1e-08,50.27957939985208,3456
+Gaub Seidel,data/vem2.mtx,1e-10,64.71111229993403,4331
+Gradiente,data/vem2.mtx,0.0001,5.50434139999561,2263
+Gradiente,data/vem2.mtx,1e-06,8.394642799859866,3397
+Gradiente,data/vem2.mtx,1e-08,11.816959000192583,4531
+Gradiente,data/vem2.mtx,1e-10,14.615652300184593,5665
+Gradiente coniugato,data/vem2.mtx,0.0001,0.31005249987356365,46
+Gradiente coniugato,data/vem2.mtx,1e-06,0.4364937001373619,54
+Gradiente coniugato,data/vem2.mtx,1e-08,0.5064416998066008,64
+Gradiente coniugato,data/vem2.mtx,1e-10,0.5564030001405627,71
